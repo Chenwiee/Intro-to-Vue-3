@@ -1,0 +1,1 @@
+start https://www.imooc.com/u/index/allcourses
